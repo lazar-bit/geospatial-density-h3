@@ -1,6 +1,3 @@
----
-
-````markdown
 # Geospatial Point Aggregation Using H3
 
 This Python script aggregates geolocated point data into approximately 1 km² hexagonal zones using the H3 geospatial indexing system. It is useful for spatial clustering, density analysis, and visualizing concentrations of point-based geodata.
@@ -77,7 +74,3 @@ You can change the H3 resolution (currently set to 8) in the script to adjust th
 ## 📃 License
 
 This project is released under the MIT License.
-
-```
-
----
